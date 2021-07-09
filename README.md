@@ -1,3 +1,6 @@
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Rajeshcn02_sonar-test&metric=alert_status)](https://sonarcloud.io/dashboard?id=Rajeshcn02_sonar-test)
+
 # pd-tech-fest-2019
 
 Demo code for [Programmers Developers Tech Fest 2019](https://www.eventbrite.com/e/pd-techfest-tickets-62965805419)
