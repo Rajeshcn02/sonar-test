@@ -271,3 +271,5 @@ Here are the links to slides from the presentation
 ### Speakerdeck
 
 [![Scaling containers with KEDA](/images/speakerdeck.PNG)](https://speakerdeck.com/nileshgule/scaling-containers-with-keda)
+
+Test Sonar cloud
